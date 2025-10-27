@@ -12,6 +12,7 @@
 
 ## GitHub 仓库
 源码地址：<[https://gitee.com/wangxc315/oop-homework.git](https://github.com/wwwxc258/OOP)>
-
+## 第一次作业
+文件：`OopHomework`
 ## 第二次作业
 文件：`OopHomework_2.cpp`
